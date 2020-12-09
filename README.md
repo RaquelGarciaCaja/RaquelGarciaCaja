@@ -1,7 +1,7 @@
 ### Hola, me llamo Raquel García 💙 
 Soy terapeuta ocupacional y desarrolladora front-end. La programación ha dado un nuevo empujón a mi vida y me encanta. 
 
- ### Algunos de mis proyectos 
+ ### Algunos de mis proyectos:
 ⭐️ <a href="https://github.com/RaquelGarciaCaja/Rick-and-Morty">Rick and Morty</a> <br/>
 ⭐️ <a href="https://github.com/RaquelGarciaCaja/Buscador-de-series">Buscador de series</a><br/>
 ⭐️ <a href="https://github.com/RaquelGarciaCaja/Pokemon-hazte-con-todos-">Pokemon</a><br/>
