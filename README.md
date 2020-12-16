@@ -1,6 +1,9 @@
 ### Hola, me llamo Raquel García 💙 
 Soy terapeuta ocupacional y desarrolladora front-end. La programación ha dado un nuevo empujón a mi vida y me encanta. 
 
+ ### Mi poroflio:
+⭐️ <a href="https://raquelgarciacaja.github.io/Porfolio-RaquelGarcia/" target="_blank">Porfolio Raquel García</a>
+   
  ### Algunos de mis proyectos:
 ⭐️ <a href="https://github.com/RaquelGarciaCaja/Rick-and-Morty">Rick and Morty</a> <br/>
 ⭐️ <a href="https://github.com/RaquelGarciaCaja/Popcorn-and-TV">Popcorn and TV</a><br/>
@@ -26,4 +29,5 @@ Soy terapeuta ocupacional y desarrolladora front-end. La programación ha dado u
   
   <a href="https://www.linkedin.com/in/raquelgarciacaja/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-blue?logo=linkedin&logoColor=white"></a>
   <a href="mailto:raquelgc8@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white"></a>
+
 
