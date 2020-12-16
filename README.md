@@ -5,11 +5,11 @@ Soy terapeuta ocupacional y desarrolladora front-end. La programación ha dado u
 ⭐️ <a href="https://raquelgarciacaja.github.io/Porfolio-RaquelGarcia/" target="_blank">Porfolio Raquel García</a>
    
  ### Algunos de mis proyectos:
-⭐️ <a href="https://github.com/RaquelGarciaCaja/Rick-and-Morty">Rick and Morty</a> <br/>
-⭐️ <a href="https://github.com/RaquelGarciaCaja/Popcorn-and-TV">Popcorn and TV</a><br/>
-⭐️ <a href="https://github.com/RaquelGarciaCaja/Pokemon-hazte-con-todos-">Pokemon</a><br/>
-⭐️ <a href="https://github.com/RaquelGarciaCaja/Div_as-Profile-Cards">Div_as Profile Cards</a><br/>
-⭐️ <a href="https://github.com/RaquelGarciaCaja/Montgomery-Card-Refactored">Montgomery Card Refactored</a>
+⭐️ <a href="https://github.com/RaquelGarciaCaja/Rick-and-Morty" target="_blank">Rick and Morty </a> <br/>
+⭐️ <a href="https://github.com/RaquelGarciaCaja/Popcorn-and-TV" target="_blank">Popcorn and TV</a><br/>
+⭐️ <a href="https://github.com/RaquelGarciaCaja/Pokemon-hazte-con-todos-" target="_blank">Pokemon</a><br/>
+⭐️ <a href="https://github.com/RaquelGarciaCaja/Div_as-Profile-Cards" target="_blank">Div_as Profile Cards</a><br/>
+⭐️ <a href="https://github.com/RaquelGarciaCaja/Montgomery-Card-Refactored" target="_blank">Montgomery Card Refactored</a>
 
 ### Lenguajes y herramientas:
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
