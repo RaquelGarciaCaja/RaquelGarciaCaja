@@ -11,7 +11,7 @@ Soy terapeuta ocupacional y desarrolladora front-end. La programación ha dado u
 ⭐️ <a href="https://github.com/RaquelGarciaCaja/Div_as-Profile-Cards" target="_blank">Div_as Profile Cards</a><br/>
 ⭐️ <a href="https://github.com/RaquelGarciaCaja/Montgomery-Card-Refactored" target="_blank">Montgomery Card Refactored</a>
 
-### Lenguajes y herramientas:
+### Lenguajes y herramientas usadas:
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
@@ -25,9 +25,9 @@ Soy terapeuta ocupacional y desarrolladora front-end. La programación ha dado u
 
 
 
- ### Contacto: 
-  
-  <a href="https://www.linkedin.com/in/raquelgarciacaja/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-blue?logo=linkedin&logoColor=white"></a>
-  <a href="mailto:raquelgc8@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white"></a>
+### Contacto: 
+Email: raquelgc8@gmail.com </br>
+Linkedin: https://www.linkedin.com/in/raquelgarciacaja/
 
+  
 
