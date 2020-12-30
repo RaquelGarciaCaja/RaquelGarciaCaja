@@ -6,7 +6,7 @@ Soy terapeuta ocupacional y desarrolladora front-end. La programación ha dado u
    
  ### Algunos de mis proyectos:
 ⭐️ <a href="https://github.com/RaquelGarciaCaja/Rick-and-Morty" target="_blank">Rick and Morty </a> <br/>
-⭐️ <a href="https://github.com/RaquelGarciaCaja/Find-the-treasure" target="_blank">Find the treasure</a>
+⭐️ <a href="https://github.com/RaquelGarciaCaja/Find-the-treasure" target="_blank">Find the treasure</a> <br/>
 ⭐️ <a href="https://github.com/RaquelGarciaCaja/Popcorn-and-TV" target="_blank">Popcorn and TV</a><br/>
 ⭐️ <a href="https://github.com/RaquelGarciaCaja/Pokemon-hazte-con-todos-" target="_blank">Pokemon</a><br/>
 ⭐️ <a href="https://github.com/RaquelGarciaCaja/Div_as-Profile-Cards" target="_blank">Div_as Profile Cards</a><br/>
