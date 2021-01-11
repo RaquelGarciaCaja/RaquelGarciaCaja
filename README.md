@@ -1,8 +1,8 @@
 ### Hola, me llamo Raquel García 💙 
 Soy terapeuta ocupacional y desarrolladora front-end. La programación ha dado un nuevo empujón a mi vida y me encanta. 
 
- ### Mi porfolio:
-⭐️ <a href="https://raquelgarciacaja.github.io/Porfolio-RaquelGarcia/" target="_blank">Porfolio Raquel García</a>
+ ### Mi portfolio:
+⭐️ <a href="https://raquelgarciacaja.github.io/Portfolio-RaquelGarcia/" target="_blank">Porfolio Raquel García</a>
    
  ### Algunos de mis proyectos:
 ⭐️ <a href="https://raquelgarciacaja.github.io/Piedra-papel-tijera-lagarto-spock/" target="_blank">Piedra, papel, tijera, lagarto, Spock</a> <br/>
