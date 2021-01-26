@@ -6,10 +6,10 @@ Soy terapeuta ocupacional y desarrolladora front-end. La programación ha dado u
    
  ### Algunos de mis proyectos:
 ⭐️ <a href="https://raquelgarciacaja.github.io/Piedra-papel-tijera-lagarto-spock/" target="_blank">Piedra, papel, tijera, lagarto, Spock</a> <br/>
-⭐️ <a href="http://beta.adalab.es/modulo-3-evaluacion-final-RaquelGarciaCaja/#/" target="_blank">Rick and Morty </a> <br/>
+⭐️ <a href="https://raquelgarciacaja.github.io/Rick-And-Morty/#/" target="_blank">Rick and Morty </a> <br/>
 ⭐️ <a href="https://raquelgarciacaja.github.io/Find-the-treasure/" target="_blank">Find the treasure</a> <br/>
-⭐️ <a href="http://beta.adalab.es/modulo-2-evaluacion-final-RaquelGarciaCaja/">Popcorn and TV</a><br/>
-⭐️ <a href="http://beta.adalab.es/modulo-3-evaluacion-intermedia-RaquelGarciaCaja/" target="_blank">Pokemon</a><br/>
+⭐️ <a href="https://raquelgarciacaja.github.io/Popcorn_And_TV/">Popcorn and TV</a><br/>
+⭐️ <a href="https://raquelgarciacaja.github.io/Pokemon/" target="_blank">Pokemon</a><br/>
 ⭐️ <a href="http://beta.adalab.es/project-promo-k-module-2-team-7/" target="_blank">Div_as Profile Cards</a><br/>
 
 
