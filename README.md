@@ -11,7 +11,7 @@ Soy terapeuta ocupacional y desarrolladora front-end. La programación ha dado u
 ⭐️ <a href="https://raquelgarciacaja.github.io/Find-the-treasure/" target="_blank">Find the treasure</a> <br/>
 ⭐️ <a href="https://raquelgarciacaja.github.io/Popcorn_And_TV/">Popcorn and TV</a><br/>
 ⭐️ <a href="https://raquelgarciacaja.github.io/Pokemon/" target="_blank">Pokemon</a><br/>
-⭐️ <a href="http://beta.adalab.es/project-promo-k-module-2-team-7/" target="_blank">Div_as Profile Cards</a><br/>
+⭐️ <a href="https://github.com/RaquelGarciaCaja/Div_as" target="_blank">Div_as Profile Cards</a><br/>
 
 
 ### Lenguajes y herramientas usadas:
