@@ -5,7 +5,7 @@ Soy terapeuta ocupacional y desarrolladora front-end. La programación ha dado u
 ⭐️ <a href="https://raquelgarciacaja.github.io/Portfolio-RaquelGarcia/" target="_blank">Portfolio Raquel García</a>
    
  ### Algunos de mis proyectos:
-⭐️ <a href="https://raquelgarciacaja.github.io/quiz/">Quiz</a><br/>
+⭐️ <a href="https://raquelgarciacaja.github.io/quiz/">Quiz Series</a><br/>
 ⭐️ <a href="https://raquelgarciacaja.github.io/Piedra-papel-tijera-lagarto-spock/" target="_blank">Piedra, papel, tijera, lagarto, Spock</a> <br/>
 ⭐️ <a href="https://raquelgarciacaja.github.io/Rick-And-Morty/#/" target="_blank">Rick and Morty </a> <br/>
 ⭐️ <a href="https://raquelgarciacaja.github.io/Find-the-treasure/" target="_blank">Find the treasure</a> <br/>
